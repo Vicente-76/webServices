@@ -1,0 +1,6 @@
+br\model\Cidade.class
+br\resources\JavaEE8Resource.class
+br\rest\ClienteResource.class
+br\model\Cliente.class
+br\JAXRSConfiguration.class
+br\crud\CrudCliente.class
